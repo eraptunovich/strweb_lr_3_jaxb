@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Alice</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Bob</empName>
+                    <managerNo>E04</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>SALES</deptName>
+            <location>LOS ANGELES</location>
+            <employees>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>David</empName>
+                </employee>
+                <employee>
+                    <empNo>E07</empNo>
+                    <empName>Eva</empName>
+                    <managerNo>E06</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D03</deptNo>
+            <deptName>IT</deptName>
+            <location>SAN FRANCISCO</location>
+            <employees>
+                <employee>
+                    <empNo>E08</empNo>
+                    <empName>Fred</empName>
+                </employee>
+                <employee>
+                    <empNo>E09</empNo>
+                    <empName>Gina</empName>
+                    <managerNo>E08</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D04</deptNo>
+            <deptName>HR</deptName>
+            <location>CHICAGO</location>
+        </department>
+        <department>
+            <deptNo>D05</deptNo>
+            <deptName>MARKETING</deptName>
+            <location>BOSTON</location>
+        </department>
+    </departments>
+</organization>
